@@ -1,0 +1,9 @@
+Reckonings:
+  - name: Greorian
+    diff: 0
+  - name: Julian
+    diff: -1123000
+  - name: Islamic
+    diff: -19615392000
+  - name: Judean
+    diff: 118606896000
